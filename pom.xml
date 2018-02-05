@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.vaadin.addons</groupId>
     <artifactId>autocomplete</artifactId>
-    <version>0.2.2-SNAPSHOT</version>
+    <version>0.2.2-kirona</version>
     <packaging>bundle</packaging>
     <name>Autocomplete Extension</name>
     <organization>
@@ -23,13 +23,13 @@
         <Vaadin-Addon>${project.artifactId}-${project.version}.jar</Vaadin-Addon>
     </properties>
     <scm>
-        <url>https://github.com/wbadam/autocomplete-extension</url>
-        <connection>scm:git:git://github.com/wbadam/autocomplete-extension.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:/wbadam/autocomplete-extension.git</developerConnection>
+        <url>https://github.com/kironapublic/autocomplete-extension</url>
+        <connection>scm:git:git://github.com/kironapublic/autocomplete-extension.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:/kironapublic/autocomplete-extension.git</developerConnection>
     </scm>
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/wbadam/autocomplete-extension/issues</url>
+        <url>https://github.com/kironapublic/autocomplete-extension/issues</url>
     </issueManagement>
     <licenses>
         <license>
